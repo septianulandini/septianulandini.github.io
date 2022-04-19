@@ -9,7 +9,7 @@ title: My Thesis References
 </head>
 <body>
 
-<h1> <a href= "https://osf.io/8bhnk/?view_only=9c0f7c88b4f442d3bb94f2a30def469a"> Referensi</a></h1>
+<h1> <a href= "https://osf.io/8bhnk/?view_only=9c0f7c88b4f442d3bb94f2a30def469a"> References</a></h1>
 
 <ol>
   <li> Dorigo, M., Theraulaz, G., & Trianni, V. (2021). Swarm Robotics: Past, Present, and Future [Point of View]. Proceedings of the IEEE, 109(7), 1152-1165. </li>
